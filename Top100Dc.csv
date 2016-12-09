@@ -1,0 +1,99 @@
+,Daily Reservations,Location,Name,Price,Type
+0,87,Oxon Hill,Voltaggio Brothers Steak House - MGM National Harbor,4,Steakhouse
+1,33,Penn Quarter,barmini by José Andrés,3,Bar / Lounge / Bottle Service
+2,318,Logan Circle,Le Diplomate,3,French
+3,134,Penn Quarter,Rasika,3,Indian
+4,40,Mt. Vernon Square,Kinship,4,American
+5,46,Oxon Hill,FISH by Jose Andres - MGM National Harbor,4,Seafood
+6,147,West End,Rasika West End,3,Contemporary Indian
+7,85,Oxon Hill,Marcus - MGM National Harbor,4,American
+8,57,Dupont Circle,Sushi Taro,4,Japanese
+9,32,Dupont Circle,Iron Gate Patio & Garden,3,Mediterranean
+10,193,Mt. Vernon Square,RPM Italian - DC,3,Italian
+11,9,Middleburg,The Goodstone Inn & Estate Restaurant,4,French
+12,17,The Plains,Field & Main,2,American
+13,50,Foggy Bottom,Roof Terrace Restaurant & Bar,4,Contemporary American
+14,121,Mount Vernon ,Farmers & Distillers,2,American
+15,36,Logan Circle,Doi Moi,2,Southeast Asian
+16,135,West End,Blue Duck Tavern,3,American
+17,69,Shaw,Hazel,3,Contemporary American
+18,469,Foggy Bottom,Founding Farmers - DC,2,American
+19,67,Capitol Hill,Ambar,2,Balkan style
+20,185,Downtown,"Joe's Seafood, Prime Steak & Stone Crab - Washington DC",4,Seafood
+21,72,Arlington,Ambar - Arlington,2,Tapas / Small Plates
+22,8,Gainesville,Uncle Julio's - Gainesville,2,Mexican
+23,8,Downtown,Elizabeth's Gone Raw,4,Vegan
+24,37,Vienna,Nostos Restaurant,2,Greek
+25,75,Reston,The Melting Pot - Reston,3,Fondue
+26,21,Ashburn,Uncle Julio's - Loudoun,2,Mexican
+27,402,Downtown,Old Ebbitt Grill,2,American
+28,53,Arlington,The Melting Pot - Arlington VA,3,Fondue
+29,24,Gaithersburg,Ruth's Chris Steak House - Gaithersburg,3,Steakhouse
+30,95,Downtown,Bombay Club,3,Indian
+31,19,Old Town Alexandria,Restaurant Eve,4,American
+32,284,Georgetown,Farmers Fishers Bakers,2,American
+34,3,Washington,Plan B Burger Bar - Washington DC,2,Burgers
+35,69,Fairfax,Texas de Brazil - Fairfax,3,Brazilian Steakhouse
+36,276,Penn Quarter,Zaytinya,3,Mediterranean
+37,25,National Harbor,Succotash Restaurant,2,Southern
+38,41,Gaithersburg,The Melting Pot - Gaithersburg,3,Fondue
+39,53,Alexandria,Landini Brothers,3,Italian
+40,18,Bethesda / Chevy Chase,Uncle Julio's - Bethesda Row,2,Mexican
+41,20,Gaithersburg,Uncle Julio's - Gaithersburg,2,Mexican
+42,9,Dupont Circle,Sushi Ogawa,4,Sushi
+43,325,Tysons Corner / McLean,Founding Farmers - Tysons,2,American
+44,27,Logan Circle,Estadio,2,Spanish
+46,98,Dupont Circle,Boqueria - DC,3,Spanish
+47,71,Tysons Corner / McLean,Eddie V's - Tysons Corner,3,Seafood
+48,11,Great Falls,Jacques' Brasserie at L'Auberge Chez Francois,2,French
+49,10,Fairfax,The Wine House,3,French American
+50,86,Georgetown,Bourbon Steak - Four Seasons Washington DC,3,Contemporary American
+51,22,Gaithersburg,Paladar Latin Kitchen and Rum Bar,2,Latin American
+52,20,Frederick,VOLT,4,American
+53,16,Reston,Uncle Julio's - Reston Town Center,2,Mexican
+54,15,Warrenton,Claire's at the Depot,2,Contemporary American
+55,12,Middleburg,Harrimans Virginia Piedmont Grill,3,Contemporary American
+56,201,Georgetown,Filomena Ristorante,3,Italian
+57,71,Alexandria,Chart House Restaurant - Alexandria,3,Seafood
+58,3,Downtown,Empress Lounge at the Mandarin Oriental - DC,3,Afternoon Tea
+59,19,Downtown,Plume at the Jefferson Hotel,4,American
+60,115,Mount Vernon ,Momofuku CCDC,3,Contemporary American
+61,55,Downtown,El Centro D.F. on 14th Street,2,Mexican
+62,80,Bethesda / Chevy Chase,Kapnos Kouzina,3,Greek
+63,38,Georgetown,1789 Restaurant,4,American
+64,20,Gaithersburg,Vasili's Kitchen,2,Italian
+65,33,Alexandria,Vermilion - Alexandria,3,Contemporary American
+66,79,Bethesda / Chevy Chase,Mon Ami Gabi - Bethesda,3,French
+67,73,Fairfax,True Food Kitchen - Fairfax,2,Mediterranean
+68,62,Georgetown,Chez Billy Sud,2,French
+69,39,Oxon Hill,Ginger - MGM National Harbor,3,Asian
+70,16,Rockville,Mykonos Grill,2,Greek
+71,69,Arlington,Ray's The Steaks,2,Steakhouse
+72,59,Ashburn,Cooper's Hawk Winery & Restaurant - Ashburn,2,Contemporary American
+73,6,Downtown,Capitol City Brewing Company - Downtown,2,American
+74,50,Great Falls,L'Auberge Chez Francois,4,French
+75,14,Washington,The Inn at Little Washington,4,American
+76,40,Friendship Heights,Clyde's of Chevy Chase,2,American
+77,65,Tysons Corner / McLean,Maggiano's - Tyson's Corner,2,Italian
+78,75,Capitol Hill,The Capital Grille - Washington DC,4,Steakhouse
+79,9,Bethesda / Chevy Chase,Ruth's Chris Steak House - Bethesda,3,Steakhouse
+80,21,Georgetown,Seasons Restaurant - Four Seasons Washington DC,4,American
+81,13,Middleburg,The Red Fox Inn & Tavern,3,Contemporary American
+82,7,Lovettsville,The Restaurant at Patowmack Farm,4,American
+83,30,Clifton,Trummer's on Main,2,Contemporary American
+84,37,Springfield,Maggiano's - Springfield,2,Italian
+85,18,Lanham,Copper Canyon Grill - Glenarden,3,Contemporary American
+86,68,Shaw,Chaplin,2,Japanese
+87,157,Penn Quarter,Oyamel,2,Mexican
+88,16,Frederick,Firestone's,3,American
+89,13,Frederick,Monocacy Crossing,3,Contemporary American
+90,27,Chevy Chase,Buck's Fishing & Camping,2,American
+91,90,Tysons Corner / McLean,Wildfire - Tysons Galleria,2,American
+92,11,Fairfax,Uncle Julio's - Fairfax Corner,2,Mexican
+93,67,Tysons Corner / McLean,Earls Kitchen + Bar - Tysons Corner,2,"Global, International"
+94,41,Palisades Northwest,BlackSalt,3,Seafood
+95,194,Rockville,Founding Farmers - Montgomery County,2,American
+96,14,Lanham,SoBe Restaurant & Lounge,3,Contemporary American
+97,34,Alexandria,Blackwall Hitch - Alexandria,2,American
+98,50,Georgetown,El Centro D.F. - Georgetown,2,Contemporary Mexican
+99,23,Cleveland Park,Medium Rare - Cleveland Park,2,Steak
